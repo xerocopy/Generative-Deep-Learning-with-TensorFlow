@@ -12,3 +12,5 @@
 #### [Layer Normalization](https://arxiv.org/abs/1607.06450) (Ba, Kiros & Hinton, 2016)
 
 #### [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) (Gatys, Ecker & Bethge, 2015)
+
+#### [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/) (Johnson, Alahi & Li, 2016)
