@@ -10,3 +10,5 @@
 #### [tf.keras.layers.LeakyReLU](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LeakyReLU)
 
 #### [Layer Normalization](https://arxiv.org/abs/1607.06450) (Ba, Kiros & Hinton, 2016)
+
+#### [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) (Gatys, Ecker & Bethge, 2015)
