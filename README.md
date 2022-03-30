@@ -17,4 +17,4 @@
 
 #### [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) (Zeiler & Fergus, 2013)
 
-####
+#### [numpy.einsum](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html)
