@@ -19,3 +19,6 @@
 #### [numpy.einsum](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html)
 
 #### [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/pdf/1705.06830.pdf) (Ghiasi, Lee, Kudlur, Dumoulin & Shlens, 2017)
+
+
+#### References: Kullback–Leibler divergence, Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders.  [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)  [Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders](https://arxiv.org/abs/2002.07514) (Asperti & Trentin, 2020)
