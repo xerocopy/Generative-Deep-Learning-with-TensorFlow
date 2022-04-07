@@ -35,4 +35,4 @@
 
 [Layer Normalization](https://arxiv.org/abs/1607.06450) (Ba, Kiros & Hinton, 2016)
 
-   
+Ready to deploy your models to the world? Learn how to go live with your models with the TensorFlow: [Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF3CourseItem)
